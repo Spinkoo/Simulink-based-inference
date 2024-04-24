@@ -11,7 +11,7 @@ Simulation-Based Inference (SBI) is an emerging field that leverages the power o
 
 ## Overview
 
-This repository replicates the notebooks from the [SBI library](https://github.com/sbi-dev/sbi/blob/main/tutorials) but adapts them to use Simulink simulations. The primary goal is to demonstrate how Simulink can be effectively integrated with SBI for practical applications. The repository is structured to provide a comprehensive understanding of how to interface with Simulink using the `Matlab2Py` library, which is being developed alongside this project.
+This repository replicates the notebooks from the [SBI library](https://github.com/sbi-dev/sbi/blob/main/tutorials) but adapts them to use Simulink simulations. The primary goal is to demonstrate how Simulink can be effectively integrated with SBI for practical applications. The repository is structured to provide a comprehensive understanding of how to interface with Simulink using the [`Matlab2Py`](https://github.com/Spinkoo/Matlab2Py) library, which is being developed alongside this project.
 
 ## Getting Started
 
