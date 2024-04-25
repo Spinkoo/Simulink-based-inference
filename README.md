@@ -7,7 +7,7 @@ Simulation-Based Inference (SBI) is an emerging field that leverages the power o
 
 ![Figure from  Training deep neural density estimators to identify mechanistic models of neural dynamics, Gonçalves et al., 2020](images/sbi_concept_figure.jpg)
 
-[Learn more about SBI from this amazing blog](https://github.com/sbi-dev/sbi/blob/main/tutorials)
+[Learn more about SBI from this amazing blog](https://transferlab.ai/series/simulation-based-inference)
 
 ## Overview
 
