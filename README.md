@@ -62,6 +62,7 @@ This project is licensed under the AGPL-3.0 license License. See the [LICENSE](L
 - The SBI library for providing a robust framework for simulation-based inference.
 - MathWorks for developing Simulink, a powerful tool for simulation and model-based design.
 - The open-source community for their continuous support and collaboration.
+- This work was supported by the French National Research Agency under the France 2030 program project IRT Nanoelec (ANR-10-AIRT-05).
 
 ## Contact
 
